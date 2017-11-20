@@ -1,2 +1,2 @@
-console.log("Hello, World!")
+learnconsole.log("Hello, World!")
 
